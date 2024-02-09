@@ -1,0 +1,53 @@
+[33mcommit 8c7ef67022b2e53faa0fb158e5372c4069b644d5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: GracielaCN97 <159415768+GracielaCN97@users.noreply.github.com>
+Date:   Thu Feb 8 01:48:40 2024 -0600
+
+    crea el index.html
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..71fbc2e[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,11 @@[m
+[32m+[m[32m<!DOCTYPE html>[m[41m[m
+[32m+[m[32m<html lang="es">[m[41m[m
+[32m+[m[32m<head>[m[41m[m
+[32m+[m[32m    <meta charset="UTF-8">[m[41m[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m[41m[m
+[32m+[m[32m    <title>Sistema deRegistros de juegos</title>[m[41m[m
+[32m+[m[32m</head>[m[41m[m
+[32m+[m[32m<body>[m[41m[m
+[32m+[m[41m    [m
+[32m+[m[32m</body>[m[41m[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+
+[33mcommit 7f5d5634090c05e934eae116a4b99a583c63e87d[m
+Author: GracielaCN97 <159415768+GracielaCN97@users.noreply.github.com>
+Date:   Thu Feb 8 01:43:11 2024 -0600
+
+    Crea el app.js
+
+[1mdiff --git a/app.js b/app.js[m
+[1mnew file mode 100644[m
+[1mindex 0000000..46138e9[m
+[1m--- /dev/null[m
+[1m+++ b/app.js[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mconsole.log ("Ejecutando el sistema")[m
+
+[33mcommit 8dfc32788b531f63e81f26c95609a347dc5c3c7d[m
+Author: GracielaCN97 <159415768+GracielaCN97@users.noreply.github.com>
+Date:   Thu Feb 8 01:36:25 2024 -0600
+
+    Crea el  README.md
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..ed5b971[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32m<h1> Sistema de Registro <h1>[m
+[32m+[m[32m-Estado del proyecto: En construcción.[m
